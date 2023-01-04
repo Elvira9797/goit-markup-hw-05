@@ -319,13 +319,12 @@ img {
 
 .hero-title {
   margin-bottom: 48px;
-  text-align: center;
   margin-left: auto;
   margin-right: auto;
 
   color: var(--color-white);
   font-weight: 700;
-  width: 492px;
+  width: 496px;
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
